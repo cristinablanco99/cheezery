@@ -31,7 +31,7 @@ class MenuActivity : AppCompatActivity() {
         }
 
         btn_5.setOnClickListener {
-            var intent= Intent(this, ComboActivity::class.java)
+            var intent= Intent(this, CombosActivity::class.java)
             startActivity(intent)
         }
 

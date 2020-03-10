@@ -9,7 +9,8 @@
         android:layout_weight="1"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:src="@drawable/caramelfrap" />
+        android:src="@drawable/caramelfrap"
+        android:layout_marginRight="15dp"/>
 
     <LinearLayout
         android:layout_weight="2"
